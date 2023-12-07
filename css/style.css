@@ -1,0 +1,72 @@
+.parent {
+    margin: 5%;
+    padding: 5%;
+    }
+
+.right_child {
+    display: inline-block;
+    width: 45%;
+    padding: 1rem 1rem;
+    text-align: right;
+    vertical-align: top;
+    }
+
+.left_child {
+    display: inline-block;
+    width: 45%;
+    padding: 1rem 1rem;
+    text-align: left;
+    vertical-align: top;
+    }
+
+.button01{
+    color: white;
+    background-color: red;
+    border: 9px;
+    }
+
+.button01 a{
+    text-decoration: none;
+    color: white;
+}
+
+.button02{
+    color: white;
+    background-color: black;
+    border: 9px;
+}
+
+.button02 a{
+    text-decoration: none;
+    color: white;
+}
+
+.logo{
+	font-size: 30px;
+	color: black;
+    float: left;
+    padding-left: 10%;
+    padding-top: 2%;
+}
+
+.logo a{
+    text-decoration: none;
+    color: black;
+}
+
+.menu{
+    padding-right: 10%;
+    color: black;
+    padding-top: 2%;
+    font-size: 25px;
+    float: right;
+}
+
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+
+.nav{
+    padding: 5%;
+}
